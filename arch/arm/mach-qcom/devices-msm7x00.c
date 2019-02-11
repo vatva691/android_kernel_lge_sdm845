@@ -1,4 +1,4 @@
-/* linux/arch/arm/mach-msm/devices.c
+/* linux/arch/arm/mach-qcom/devices.c
  *
  * Copyright (C) 2008 Google, Inc.
  *

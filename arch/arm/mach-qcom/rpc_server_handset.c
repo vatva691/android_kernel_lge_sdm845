@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/rpc_server_handset.c
+/* arch/arm/mach-qcom/rpc_server_handset.c
  *
  * Copyright (c) 2008-2010,2012 The Linux Foundation. All rights reserved.
  *

@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/smp2p_gpio.c
+/* arch/arm/mach-qcom/smp2p_gpio.c
  *
  * Copyright (c) 2013, The Linux Foundation. All rights reserved.
  *

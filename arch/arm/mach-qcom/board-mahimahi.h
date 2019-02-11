@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/board-mahimahi.h
+/* arch/arm/mach-qcom/board-mahimahi.h
  *
  * Copyright (C) 2009 HTC Corporation.
  * Author: Haley Teng <Haley_Teng@htc.com>

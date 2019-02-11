@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/vreg.c
+/* arch/arm/mach-qcom/vreg.c
  *
  * Copyright (C) 2008 Google, Inc.
  * Copyright (c) 2009-2012 The Linux Foundation. All rights reserved.

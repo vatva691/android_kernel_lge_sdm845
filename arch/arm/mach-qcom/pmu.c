@@ -52,7 +52,7 @@ static struct platform_device cpu_pmu_device = {
  * The 8625 is a special case. Due to the requirement of a single
  * kernel image for the 7x27a and 8625 (which share IRQ headers),
  * this target breaks the uniformity of IRQ names.
- * See the file - arch/arm/mach-msm/include/mach/irqs-8625.h
+ * See the file - arch/arm/mach-qcom/include/mach/irqs-8625.h
  */
 #ifdef CONFIG_ARCH_MSM8625
 static struct resource msm8625_cpu_pmu_resource[] = {

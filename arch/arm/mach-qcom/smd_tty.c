@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/smd_tty.c
+/* arch/arm/mach-qcom/smd_tty.c
  *
  * Copyright (C) 2007 Google, Inc.
  * Copyright (c) 2009-2014, The Linux Foundation. All rights reserved.

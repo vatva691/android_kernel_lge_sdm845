@@ -1,5 +1,5 @@
 /*
- * arch/arm/mach-msm/lge/lge_bootloader_time_checker.c
+ * arch/arm/mach-qcom/lge/lge_bootloader_time_checker.c
  *
  * Copyright (C) 2013 LGE, Inc
  *

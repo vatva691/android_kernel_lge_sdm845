@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/include/mach/proc_comm.h
+/* arch/arm/mach-qcom/include/mach/proc_comm.h
  *
  * Copyright (c) 2007-2009,2011 The Linux Foundation. All rights reserved.
  *

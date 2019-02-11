@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/include/mach/memory.h
+/* arch/arm/mach-qcom/include/mach/memory.h
  *
  * Copyright (C) 2007 Google, Inc.
  * Copyright (c) 2009-2013, The Linux Foundation. All rights reserved.

@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/acpuclock.c
+/* arch/arm/mach-qcom/acpuclock.c
  *
  * MSM architecture clock driver
  *

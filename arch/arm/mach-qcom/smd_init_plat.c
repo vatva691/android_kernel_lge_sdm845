@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/smd_init_plat.c
+/* arch/arm/mach-qcom/smd_init_plat.c
  *
  * Copyright (c) 2013, The Linux Foundation. All rights reserved.
  *

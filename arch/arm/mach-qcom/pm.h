@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/pm.h
+/* arch/arm/mach-qcom/pm.h
  *
  * Copyright (C) 2007 Google, Inc.
  * Copyright (c) 2009-2013, The Linux Foundation. All rights reserved.

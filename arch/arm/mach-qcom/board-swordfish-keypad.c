@@ -1,4 +1,4 @@
-/* linux/arch/arm/mach-msm/board-swordfish-keypad.c
+/* linux/arch/arm/mach-qcom/board-swordfish-keypad.c
  *
  * Copyright (C) 2007 Google, Inc.
  * Author: Brian Swetland <swetland@google.com>

@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/smem_debug.c
+/* arch/arm/mach-qcom/smem_debug.c
  *
  * Copyright (C) 2007 Google, Inc.
  * Copyright (c) 2009-2013,2016-2017 The Linux Foundation. All rights reserved.

@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/fish_battery.c
+/* arch/arm/mach-qcom/fish_battery.c
  *
  * Copyright (C) 2008 Google, Inc.
  *
@@ -11,7 +11,7 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  *
- * based on: arch/arm/mach-msm/htc_battery.c
+ * based on: arch/arm/mach-qcom/htc_battery.c
  */
 
 #include <linux/init.h>

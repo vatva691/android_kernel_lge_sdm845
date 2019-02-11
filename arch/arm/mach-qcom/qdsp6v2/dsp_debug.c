@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/qdsp6/dsp_dump.c
+/* arch/arm/mach-qcom/qdsp6/dsp_dump.c
  *
  * Copyright (C) 2009 Google, Inc.
  * Author: Brian Swetland <swetland@google.com>

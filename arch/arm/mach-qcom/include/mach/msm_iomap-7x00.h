@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/include/mach/msm_iomap.h
+/* arch/arm/mach-qcom/include/mach/msm_iomap.h
  *
  * Copyright (C) 2007 Google, Inc.
  * Author: Brian Swetland <swetland@google.com>
@@ -32,7 +32,7 @@
  * instruction, otherwise entry-macro.S will not compile.
  *
  * If you add or remove entries here, you'll want to edit the
- * msm_io_desc array in arch/arm/mach-msm/io.c to reflect your
+ * msm_io_desc array in arch/arm/mach-qcom/io.c to reflect your
  * changes.
  *
  */

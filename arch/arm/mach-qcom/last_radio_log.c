@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/last_radio_log.c
+/* arch/arm/mach-qcom/last_radio_log.c
  *
  * Extract the log from a modem crash though SMEM
  *

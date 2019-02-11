@@ -1,5 +1,5 @@
 /*
- * arch/arm/mach-msm/lge/lge_bootloader_log.c
+ * arch/arm/mach-qcom/lge/lge_bootloader_log.c
  *
  * Copyright (C) 2012 LGE, Inc
  *

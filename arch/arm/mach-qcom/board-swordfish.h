@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/board-swordfish.h
+/* arch/arm/mach-qcom/board-swordfish.h
  *
  * Copyright (C) 2009 Google Inc.
  * Author: Dima Zavin <dima@android.com>

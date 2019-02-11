@@ -1,4 +1,4 @@
-/* linux/arch/arm/mach-msm/board-mahimahi.c
+/* linux/arch/arm/mach-qcom/board-mahimahi.c
  *
  * Copyright (C) 2009 Google, Inc.
  * Copyright (C) 2009 HTC Corporation.

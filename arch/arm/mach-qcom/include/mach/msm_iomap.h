@@ -32,7 +32,7 @@
  * instruction, otherwise entry-macro.S will not compile.
  *
  * If you add or remove entries here, you'll want to edit the
- * msm_io_desc array in arch/arm/mach-msm/io.c to reflect your
+ * msm_io_desc array in arch/arm/mach-qcom/io.c to reflect your
  * changes.
  *
  */

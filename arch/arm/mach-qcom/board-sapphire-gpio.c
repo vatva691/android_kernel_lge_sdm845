@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/board-sapphire-gpio.c
+/* arch/arm/mach-qcom/board-sapphire-gpio.c
  * Copyright (C) 2007-2009 HTC Corporation.
  * Author: Thomas Tsai <thomas_tsai@htc.com>
  *

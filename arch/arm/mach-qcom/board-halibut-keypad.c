@@ -1,4 +1,4 @@
-/* linux/arch/arm/mach-msm/board-halibut-keypad.c
+/* linux/arch/arm/mach-qcom/board-halibut-keypad.c
  *
  * Copyright (C) 2007 Google, Inc.
  * Author: Brian Swetland <swetland@google.com>

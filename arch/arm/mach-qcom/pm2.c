@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/pm2.c
+/* arch/arm/mach-qcom/pm2.c
  *
  * MSM Power Management Routines
  *

@@ -1,5 +1,5 @@
 /*
- * linux/arch/arm/mach-msm/gpio.c
+ * linux/arch/arm/mach-qcom/gpio.c
  *
  * Copyright (C) 2005 HP Labs
  * Copyright (C) 2008 Google, Inc.

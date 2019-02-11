@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/smd_debug.c
+/* arch/arm/mach-qcom/smd_debug.c
  *
  * Copyright (C) 2007 Google, Inc.
  * Copyright (c) 2009-2013, The Linux Foundation. All rights reserved.

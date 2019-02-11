@@ -1,4 +1,4 @@
-/** arch/arm/mach-msm/smd_rpcrouter.h
+/** arch/arm/mach-qcom/smd_rpcrouter.h
  *
  * Copyright (C) 2007 Google, Inc.
  * Copyright (c) 2007-2012, The Linux Foundation. All rights reserved.

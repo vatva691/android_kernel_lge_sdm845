@@ -1,4 +1,4 @@
-/* include/asm/mach-msm/htc_acoustic_qsd.h
+/* include/asm/mach-qcom/htc_acoustic_qsd.h
  *
  * Copyright (C) 2009 HTC Corporation.
  *

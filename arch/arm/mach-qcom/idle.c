@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/idle.c
+/* arch/arm/mach-qcom/idle.c
  *
  * Idle processing for MSM7K - work around bugs with SWFI.
  *

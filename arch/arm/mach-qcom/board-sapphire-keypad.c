@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/board-sapphire-keypad.c
+/* arch/arm/mach-qcom/board-sapphire-keypad.c
  * Copyright (C) 2007-2009 HTC Corporation.
  * Author: Thomas Tsai <thomas_tsai@htc.com>
  *

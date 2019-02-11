@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/rpc_server_time_remote.h
+/* arch/arm/mach-qcom/rpc_server_time_remote.h
  *
  * Copyright (c) 2008-2009, The Linux Foundation. All rights reserved.
  *

@@ -1,4 +1,4 @@
-/* linux/arch/arm/mach-msm/board-halibut-mddi.c
+/* linux/arch/arm/mach-qcom/board-halibut-mddi.c
 ** Author: Brian Swetland <swetland@google.com>
 */
 

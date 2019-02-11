@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/io.c
+/* arch/arm/mach-qcom/io.c
  *
  * MSM7K, QSD io support
  *

@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/smd.c
+/* arch/arm/mach-qcom/smd.c
  *
  * Copyright (C) 2007 Google, Inc.
  * Copyright (c) 2008-2014, The Linux Foundation. All rights reserved.

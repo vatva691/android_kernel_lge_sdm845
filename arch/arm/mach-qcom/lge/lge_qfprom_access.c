@@ -1,5 +1,5 @@
 /*
-* arch/arm/mach-msm/lge/lge_qfprom_access.c
+* arch/arm/mach-qcom/lge/lge_qfprom_access.c
 *
 * Copyright (C) 2010 LGE, Inc
 *

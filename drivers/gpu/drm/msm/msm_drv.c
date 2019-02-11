@@ -421,7 +421,7 @@ static int msm_init_vram(struct drm_device *dev)
 
 		/* if we have no IOMMU, then we need to use carveout allocator.
 		 * Grab the entire CMA chunk carved out in early startup in
-		 * mach-msm:
+		 * mach-qcom:
 		 */
 	} else if (!iommu_present(&platform_bus_type)) {
 		DRM_INFO("using %s VRAM carveout\n", vram);

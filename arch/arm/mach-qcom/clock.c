@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/clock.c
+/* arch/arm/mach-qcom/clock.c
  *
  * Copyright (C) 2007 Google, Inc.
  * Copyright (c) 2007-2013, The Linux Foundation. All rights reserved.

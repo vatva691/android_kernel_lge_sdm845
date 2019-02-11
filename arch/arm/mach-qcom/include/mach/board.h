@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/include/mach/board.h
+/* arch/arm/mach-qcom/include/mach/board.h
  *
  * Copyright (C) 2007 Google, Inc.
  * Copyright (c) 2008-2013, The Linux Foundation. All rights reserved.
@@ -606,7 +606,7 @@ struct isp1763_platform_data {
 	int (*setup_gpio)(int enable);
 };
 #endif
-/* common init routines for use by arch/arm/mach-msm/board-*.c */
+/* common init routines for use by arch/arm/mach-qcom/board-*.c */
 
 #ifdef CONFIG_OF_DEVICE
 void msm_8974_init(struct of_dev_auxdata **);
@@ -680,7 +680,7 @@ void msm_snddev_hsed_voltage_off(void);
 void msm_snddev_tx_route_config(void);
 void msm_snddev_tx_route_deconfig(void);
 
-extern phys_addr_t msm_shared_ram_phys; /* defined in arch/arm/mach-msm/io.c */
+extern phys_addr_t msm_shared_ram_phys; /* defined in arch/arm/mach-qcom/io.c */
 
 
 u32 wcnss_rf_read_reg(u32 rf_reg_addr);

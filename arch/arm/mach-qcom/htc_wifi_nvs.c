@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/htc_wifi_nvs.c
+/* arch/arm/mach-qcom/htc_wifi_nvs.c
  *
  * Code to extract WiFi calibration information from ATAG set up 
  * by the bootloader.

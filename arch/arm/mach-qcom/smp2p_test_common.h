@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/smp2p_test_common.h
+/* arch/arm/mach-qcom/smp2p_test_common.h
  *
  * Copyright (c) 2013, The Linux Foundation. All rights reserved.
  *

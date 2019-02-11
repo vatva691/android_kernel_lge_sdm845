@@ -1,4 +1,4 @@
-/* linux/arch/arm/mach-msm/board-swordfish-panel.c
+/* linux/arch/arm/mach-qcom/board-swordfish-panel.c
  *
  * Copyright (c) 2009 Google Inc.
  *

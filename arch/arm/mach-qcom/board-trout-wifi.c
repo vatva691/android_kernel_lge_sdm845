@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/board-trout-wifi.c
+/* arch/arm/mach-qcom/board-trout-wifi.c
  *
  * Copyright (C) 2008 Google, Inc.
  * Author: Dmitry Shmidt <dimitrysh@google.com>

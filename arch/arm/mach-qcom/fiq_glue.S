@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/fiq_glue.S
+/* arch/arm/mach-qcom/fiq_glue.S
  *
  * Copyright (C) 2008 Google, Inc.
  *

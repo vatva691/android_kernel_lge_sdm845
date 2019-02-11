@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/include/mach/msm_qdsp6_audio.h
+/* arch/arm/mach-qcom/include/mach/msm_qdsp6_audio.h
  *
  * Copyright (C) 2009 Google, Inc.
  * Copyright (c) 2009, The Linux Foundation. All rights reserved.

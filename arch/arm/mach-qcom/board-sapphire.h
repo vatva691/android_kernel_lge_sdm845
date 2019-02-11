@@ -1,4 +1,4 @@
-/* linux/arch/arm/mach-msm/board-sapphire.h
+/* linux/arch/arm/mach-qcom/board-sapphire.h
  * Copyright (C) 2007-2009 HTC Corporation.
  * Author: Thomas Tsai <thomas_tsai@htc.com>
  *

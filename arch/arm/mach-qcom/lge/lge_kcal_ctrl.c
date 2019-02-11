@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/lge/lge_kcal_ctrl.c
+/* arch/arm/mach-qcom/lge/lge_kcal_ctrl.c
  *
  * Interface to calibrate display color temperature.
  *

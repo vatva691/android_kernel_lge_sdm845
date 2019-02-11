@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/include/mach/BOARD_HTC.h
+/* arch/arm/mach-qcom/include/mach/BOARD_HTC.h
  * Copyright (C) 2007-2009 HTC Corporation.
  * Author: Thomas Tsai <thomas_tsai@htc.com>
  *
@@ -45,7 +45,7 @@ enum {
 };
 
 
-/* common init routines for use by arch/arm/mach-msm/board-*.c */
+/* common init routines for use by arch/arm/mach-qcom/board-*.c */
 
 void __init msm_add_usb_devices(void (*phy_reset) (void));
 void __init msm_add_mem_devices(struct msm_pmem_setting *setting);

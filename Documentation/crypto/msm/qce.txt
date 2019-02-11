@@ -92,7 +92,7 @@ The crypto device is defined as a platform device. The driver is
 independent of the platform. The driver supports multiple instances of
 crypto HW.
 All the platform specific parameters are defined in the board init
-file, eg. arch/arm/mach-msm/board-msm7x30.c for MSM7x30.
+file, eg. arch/arm/mach-qcom/board-msm7x30.c for MSM7x30.
 
 The qce driver provide the common services of HW crypto
 access to the two drivers as listed above (qcedev, qcrypto. It sets up

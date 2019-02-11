@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/include/mach/hardware.h
+/* arch/arm/mach-qcom/include/mach/hardware.h
  *
  * Copyright (C) 2007 Google, Inc.
  * Copyright (c) 2012, The Linux Foundation. All rights reserved.

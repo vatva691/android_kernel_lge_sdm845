@@ -100,7 +100,7 @@ Module parameters:
 ==================
 
 All the platform specific parameters are defined in the board init
-file, eg. arch/arm/mach-msm/board-mssm7x30.c for msm7x30.
+file, eg. arch/arm/mach-qcom/board-mssm7x30.c for msm7x30.
 
 Dependencies:
 =============

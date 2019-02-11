@@ -1,5 +1,5 @@
 /*
- * arch/arm/mach-msm/lge/lge_gpio_debug.c
+ * arch/arm/mach-qcom/lge/lge_gpio_debug.c
  *
  * Copyright (C) 2014 LGE, Inc.
  *

@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/proc_comm.c
+/* arch/arm/mach-qcom/proc_comm.c
  *
  * Copyright (C) 2007-2008 Google, Inc.
  * Copyright (c) 2009-2012, The Linux Foundation. All rights reserved.

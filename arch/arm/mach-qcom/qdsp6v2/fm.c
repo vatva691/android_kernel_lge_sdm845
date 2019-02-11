@@ -1,6 +1,6 @@
 /* Copyright (c) 2010-2011, The Linux Foundation. All rights reserved.
  *
- * Based on the mp3 native driver in arch/arm/mach-msm/qdsp5v2/audio_mp3.c
+ * Based on the mp3 native driver in arch/arm/mach-qcom/qdsp5v2/audio_mp3.c
  *
  * Copyright (C) 2008 Google, Inc.
  * Copyright (C) 2008 HTC Corporation

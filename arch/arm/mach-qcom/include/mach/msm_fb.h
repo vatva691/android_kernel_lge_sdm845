@@ -1,4 +1,4 @@
-/* arch/arm/mach-msm/include/mach/msm_fb.h
+/* arch/arm/mach-qcom/include/mach/msm_fb.h
  *
  * Internal shared definitions for various MSM framebuffer parts.
  *
