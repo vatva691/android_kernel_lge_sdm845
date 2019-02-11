@@ -282,6 +282,7 @@
 /*
  * Configuration information
  */
+#define RETRY_CNT_SIZE 300
 #define INPUT_POOL_SHIFT	12
 #define INPUT_POOL_WORDS	(1 << (INPUT_POOL_SHIFT-5))
 #define OUTPUT_POOL_SHIFT	10

@@ -62,7 +62,6 @@ perf_trace_##call(void *__data, proto)					\
 									\
 	tstruct								\
 									\
-	{ assign; }							\
 									\
 	perf_trace_run_bpf_submit(entry, __entry_size, rctx,		\
 				  event_call, __count, __regs,		\

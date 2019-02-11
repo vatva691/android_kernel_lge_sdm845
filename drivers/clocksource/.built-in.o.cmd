@@ -1,0 +1,1 @@
+cmd_drivers/clocksource/built-in.o :=  /home/mata/Desktop/eabi/bin/arm-linux-androideabi-ld -EL    -r -o drivers/clocksource/built-in.o drivers/clocksource/clksrc-probe.o drivers/clocksource/dummy_timer.o 

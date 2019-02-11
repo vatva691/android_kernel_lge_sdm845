@@ -1224,7 +1224,7 @@ int32_t qpnp_iadc_read(struct qpnp_iadc_chip *iadc,
 	result_current = result->result_uv;
 	result_current *= QPNP_IADC_NANO_VOLTS_FACTOR;
 	/* Intentional fall through. Process the result w/o comp */
-	do_div(result_current, rsense_u_ohms);
+	do_mod(result_current, rsense_u_ohms);
 
 	if (sign) {
 		result->result_uv = -result->result_uv;
@@ -1370,7 +1370,7 @@ int32_t qpnp_iadc_vadc_sync_read(struct qpnp_iadc_chip *iadc,
 		goto fail_release_vadc;
 	}
 
-	do_div(result_current, rsense_u_ohms);
+	do_mod(result_current, rsense_u_ohms);
 
 	if (sign) {
 		i_result->result_uv = -i_result->result_uv;

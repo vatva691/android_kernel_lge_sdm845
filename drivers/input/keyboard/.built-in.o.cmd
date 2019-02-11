@@ -1,0 +1,1 @@
+cmd_drivers/input/keyboard/built-in.o :=  /home/mata/Desktop/eabi/bin/arm-linux-androideabi-ld -EL    -r -o drivers/input/keyboard/built-in.o drivers/input/keyboard/atkbd.o drivers/input/keyboard/gpio_keys.o drivers/input/keyboard/hall_ic.o 

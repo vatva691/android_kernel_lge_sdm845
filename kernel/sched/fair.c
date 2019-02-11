@@ -6193,20 +6193,6 @@ static inline bool __task_fits(struct task_struct *p, int cpu, int util)
 	return (capacity_orig_of(cpu) * 1024) > (util * margin);
 }
 
-static inline bool task_fits_max(struct task_struct *p, int cpu)
-{
-	unsigned long capacity = capacity_orig_of(cpu);
-	unsigned long max_capacity = cpu_rq(cpu)->rd->max_cpu_capacity.val;
-
-	if (capacity == max_capacity)
-		return true;
-
-	if (sched_boost_policy() == SCHED_BOOST_ON_BIG &&
-					task_sched_boost(p))
-		return false;
-
-	return __task_fits(p, cpu, 0);
-}
 
 static inline bool task_fits_spare(struct task_struct *p, int cpu)
 {
@@ -6877,9 +6863,6 @@ static int energy_aware_wake_cpu(struct task_struct *p, int target, int sync)
 	if (need_idle)
 		sync = 0;
 	grp = task_related_thread_group(p);
-	if (grp && grp->preferred_cluster)
-		rtg_target = &grp->preferred_cluster->cpus;
-
 	if (sync && bias_to_waker_cpu(p, cpu, rtg_target)) {
 		trace_sched_task_util_bias_to_waker(p, prev_cpu,
 					task_util(p), cpu, cpu, 0, need_idle);
@@ -10691,11 +10674,6 @@ static void task_tick_fair(struct rq *rq, struct task_struct *curr, int queued)
 {
 	struct cfs_rq *cfs_rq;
 	struct sched_entity *se = &curr->se;
-#ifdef CONFIG_SMP
-	bool old_misfit = curr->misfit;
-	bool misfit;
-#endif
-
 	for_each_sched_entity(se) {
 		cfs_rq = cfs_rq_of(se);
 		entity_tick(cfs_rq, se, queued);
@@ -10710,13 +10688,6 @@ static void task_tick_fair(struct rq *rq, struct task_struct *curr, int queued)
 		trace_sched_overutilized(true);
 	}
 
-	misfit = !task_fits_max(curr, rq->cpu);
-	rq->misfit_task = misfit;
-
-	if (old_misfit != misfit) {
-		walt_fixup_nr_big_tasks(rq, curr, 1, misfit);
-		curr->misfit = misfit;
-	}
 #endif
 
 }

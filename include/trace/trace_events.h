@@ -683,7 +683,6 @@ trace_event_raw_event_##call(void *__data, proto)			\
 									\
 	tstruct								\
 									\
-	{ assign; }							\
 									\
 	trace_event_buffer_commit(&fbuffer,				\
 				  sizeof(*entry) + __data_size);	\

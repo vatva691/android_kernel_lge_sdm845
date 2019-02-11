@@ -678,7 +678,7 @@ static inline bool scsi_debug_lbp(void)
 
 static void *fake_store(unsigned long long lba)
 {
-	lba = do_div(lba, sdebug_store_sectors);
+	lba = sector_div(lba, sdebug_store_sectors);
 
 	return fake_storep + lba * sdebug_sector_size;
 }

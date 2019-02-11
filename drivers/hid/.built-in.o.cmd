@@ -1,0 +1,1 @@
+cmd_drivers/hid/built-in.o :=  /home/mata/Desktop/eabi/bin/arm-linux-androideabi-ld -EL    -r -o drivers/hid/built-in.o drivers/hid/hid.o drivers/hid/uhid.o drivers/hid/hid-generic.o drivers/hid/hid-apple.o drivers/hid/hid-magicmouse.o drivers/hid/usbhid/built-in.o 

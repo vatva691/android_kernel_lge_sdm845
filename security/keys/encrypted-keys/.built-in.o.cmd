@@ -1,0 +1,1 @@
+cmd_security/keys/encrypted-keys/built-in.o :=  /home/mata/Desktop/eabi/bin/arm-linux-androideabi-ld -EL    -r -o security/keys/encrypted-keys/built-in.o security/keys/encrypted-keys/encrypted-keys.o 

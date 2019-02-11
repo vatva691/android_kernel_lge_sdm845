@@ -12,7 +12,7 @@
 #include <trace/events/sched.h>
 
 #include "walt.h"
-
+#define FULL_THROTTLE_BOOST 1
 int sched_rr_timeslice = RR_TIMESLICE;
 
 static int do_sched_rt_period_timer(struct rt_bandwidth *rt_b, int overrun);

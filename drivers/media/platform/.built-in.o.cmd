@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/built-in.o :=  /home/mata/Desktop/eabi/bin/arm-linux-androideabi-ld -EL    -r -o drivers/media/platform/built-in.o drivers/media/platform/omap/built-in.o drivers/media/platform/msm/built-in.o 
