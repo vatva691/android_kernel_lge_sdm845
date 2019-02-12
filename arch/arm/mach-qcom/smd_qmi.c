@@ -1,4 +1,4 @@
-/* arch/arm/mach-qcom/smd_qmi.c
+/* arch/arm/mach-msm/smd_qmi.c
  *
  * QMI Control Driver -- Manages network data connections.
  *

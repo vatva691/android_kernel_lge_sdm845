@@ -1,4 +1,4 @@
-/* linux/arch/arm/mach-qcom/rpc_hsusb.c
+/* linux/arch/arm/mach-msm/rpc_hsusb.c
  *
  * Copyright (c) 2008-2012, The Linux Foundation. All rights reserved.
  *

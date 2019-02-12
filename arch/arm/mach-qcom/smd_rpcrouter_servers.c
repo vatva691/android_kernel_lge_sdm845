@@ -1,4 +1,4 @@
-/* arch/arm/mach-qcom/rpc_servers.c
+/* arch/arm/mach-msm/rpc_servers.c
  *
  * Copyright (C) 2007 Google, Inc.
  * Copyright (c) 2009-2010, The Linux Foundation. All rights reserved.

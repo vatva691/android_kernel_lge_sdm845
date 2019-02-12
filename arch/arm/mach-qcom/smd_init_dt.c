@@ -1,4 +1,4 @@
-/* arch/arm/mach-qcom/smd_init_dt.c
+/* arch/arm/mach-msm/smd_init_dt.c
  *
  * Copyright (c) 2013, The Linux Foundation. All rights reserved.
  *

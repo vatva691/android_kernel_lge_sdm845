@@ -1,4 +1,4 @@
-/* arch/arm/mach-qcom/smp2p_loopback.c
+/* arch/arm/mach-msm/smp2p_loopback.c
  *
  * Copyright (c) 2013, The Linux Foundation. All rights reserved.
  *

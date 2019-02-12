@@ -1,4 +1,4 @@
-/* linux/arch/arm/mach-qcom/irq.c
+/* linux/arch/arm/mach-msm/irq.c
  *
  * Copyright (c) 2009-2011 The Linux Foundation. All rights reserved.
  * Copyright (C) 2009 Google, Inc.

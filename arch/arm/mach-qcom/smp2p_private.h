@@ -1,4 +1,4 @@
-/* arch/arm/mach-qcom/smp2p_private.h
+/* arch/arm/mach-msm/smp2p_private.h
  *
  * Copyright (c) 2013-2014, The Linux Foundation. All rights reserved.
  *

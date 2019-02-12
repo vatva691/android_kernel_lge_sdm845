@@ -1,4 +1,4 @@
-/* arch/arm/mach-qcom/sirc.h
+/* arch/arm/mach-msm/sirc.h
  *
  * Copyright (C) 2009 Google, Inc.
  * Copyright (c) 2011, The Linux Foundation. All rights reserved.

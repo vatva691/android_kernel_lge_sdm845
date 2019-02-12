@@ -1,4 +1,4 @@
-/* arch/arm/mach-qcom/smd_private.h
+/* arch/arm/mach-msm/smd_private.h
  *
  * Copyright (C) 2007 Google, Inc.
  * Copyright (c) 2007-2013, The Linux Foundation. All rights reserved.

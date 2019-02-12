@@ -1,4 +1,4 @@
-/* arch/arm/mach-qcom/rpc_server_time_remote.c
+/* arch/arm/mach-msm/rpc_server_time_remote.c
  *
  * Copyright (C) 2007 Google, Inc.
  * Copyright (c) 2009-2011 The Linux Foundation. All rights reserved.

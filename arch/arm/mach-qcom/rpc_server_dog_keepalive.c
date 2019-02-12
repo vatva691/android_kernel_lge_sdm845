@@ -1,4 +1,4 @@
-/* arch/arm/mach-qcom/rpc_server_dog_keepalive.c
+/* arch/arm/mach-msm/rpc_server_dog_keepalive.c
  *
  * Copyright (C) 2007 Google, Inc.
  * Copyright (c) 2009, The Linux Foundation. All rights reserved.
