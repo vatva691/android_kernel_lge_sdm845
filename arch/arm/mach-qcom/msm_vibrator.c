@@ -1,4 +1,4 @@
-/* include/asm/mach-qcom/htc_pwrsink.h
+/* include/asm/mach-msm/htc_pwrsink.h
  *
  * Copyright (C) 2008 HTC Corporation.
  * Copyright (C) 2007 Google, Inc.
