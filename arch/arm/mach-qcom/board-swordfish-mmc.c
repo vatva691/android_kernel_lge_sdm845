@@ -1,4 +1,4 @@
-/* linux/arch/arm/mach-qcom/board-swordfish-mmc.c
+/* linux/arch/arm/mach-msm/board-swordfish-mmc.c
  *
  * Copyright (C) 2008 Google, Inc.
  *

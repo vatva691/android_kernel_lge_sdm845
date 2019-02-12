@@ -1,4 +1,4 @@
-/* arch/arm/mach-qcom/board-trout-keypad.c
+/* arch/arm/mach-msm/board-trout-keypad.c
  *
  * Copyright (C) 2008 Google, Inc.
  *

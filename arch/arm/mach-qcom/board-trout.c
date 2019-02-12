@@ -1,4 +1,4 @@
-/* linux/arch/arm/mach-qcom/board-trout.c
+/* linux/arch/arm/mach-msm/board-trout.c
  *
  * Copyright (C) 2009 Google, Inc.
  * Author: Brian Swetland <swetland@google.com>

@@ -1,4 +1,4 @@
-/* linux/arch/arm/mach-qcom/board-swordfish.c
+/* linux/arch/arm/mach-msm/board-swordfish.c
  *
  * Copyright (C) 2009 Google, Inc.
  * Author: Brian Swetland <swetland@google.com>

@@ -1,4 +1,4 @@
-/* linux/arch/arm/mach-qcom/board-trout-mddi.c
+/* linux/arch/arm/mach-msm/board-trout-mddi.c
 ** Author: Brian Swetland <swetland@google.com>
 */
 #include <linux/gpio.h>
