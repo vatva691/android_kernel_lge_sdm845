@@ -1,4 +1,4 @@
-/* arch/arm/mach-qcom/include/mach/msm_audio_aac.h
+/* arch/arm/mach-msm/include/mach/msm_audio_aac.h
  *
  * Copyright (c) 2009 The Linux Foundation. All rights reserved.
  *

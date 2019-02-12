@@ -1,5 +1,5 @@
 /*
- * arch/arm/mach-qcom/include/mach/mmi_watchdog.h: include file for watchdog
+ * arch/arm/mach-msm/include/mach/mmi_watchdog.h: include file for watchdog
  *
  * Copyright (C) 2012 Motorola Mobility LLC.
  *

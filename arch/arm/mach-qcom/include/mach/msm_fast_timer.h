@@ -1,4 +1,4 @@
-/* arch/arm/mach-qcom/include/mach/msm_fast_timer.h
+/* arch/arm/mach-msm/include/mach/msm_fast_timer.h
  *
  * Copyright (C) 2009 Google, Inc.
  *

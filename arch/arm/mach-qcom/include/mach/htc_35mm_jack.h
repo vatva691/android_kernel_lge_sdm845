@@ -1,4 +1,4 @@
-/* arch/arm/mach-qcom/include/mach/htc_35mm_jack.h
+/* arch/arm/mach-msm/include/mach/htc_35mm_jack.h
  *
  * Copyright (C) 2009 HTC, Inc.
  * Author: Arec Kao <Arec_Kao@htc.com>
