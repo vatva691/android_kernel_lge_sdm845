@@ -1,4 +1,4 @@
-/* arch/arm/mach-qcom/htc_akm_cal.c
+/* arch/arm/mach-msm/htc_akm_cal.c
  *
  * Code to extract compass calibration information from ATAG set up 
  * by the bootloader.

@@ -1,4 +1,4 @@
-/* arch/arm/mach-qcom/htc_acoustic.c
+/* arch/arm/mach-msm/htc_acoustic.c
  *
  * Copyright (C) 2007-2008 HTC Corporation
  * Author: Laurence Chen <Laurence_Chen@htc.com>

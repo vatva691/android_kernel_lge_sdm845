@@ -1146,7 +1146,7 @@ endmenu
 # LGE_CHANGED_BEGIN
 # lge specific kconfig
 # jungsu06.kim@lge.com
-source "arch/arm/mach-qcom/lge/Kconfig"
+source "arch/arm/mach-msm/lge/Kconfig"
 # LGE_CHANGED_END
 
 config USE_QUP1_I2C

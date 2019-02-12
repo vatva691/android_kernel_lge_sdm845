@@ -1,4 +1,4 @@
-/* arch/arm/mach-qcom/hw3d.c
+/* arch/arm/mach-msm/hw3d.c
  *
  * Register/Interrupt access for userspace 3D library.
  *

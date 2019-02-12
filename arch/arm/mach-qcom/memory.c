@@ -1,4 +1,4 @@
-/* arch/arm/mach-qcom/memory.c
+/* arch/arm/mach-msm/memory.c
  *
  * Copyright (C) 2007 Google, Inc.
  * Copyright (c) 2009-2013, The Linux Foundation. All rights reserved.

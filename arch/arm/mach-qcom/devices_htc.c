@@ -1,4 +1,4 @@
-/* linux/arch/arm/mach-qcom/devices.c
+/* linux/arch/arm/mach-msm/devices.c
  *
  * Copyright (C) 2008 Google, Inc.
  * Copyright (C) 2007-2009 HTC Corporation.

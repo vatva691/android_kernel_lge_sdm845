@@ -1,4 +1,4 @@
-/* arch/arm/mach-qcom/htc_battery.c
+/* arch/arm/mach-msm/htc_battery.c
  *
  * Copyright (C) 2008 HTC Corporation.
  * Copyright (C) 2008 Google, Inc.
