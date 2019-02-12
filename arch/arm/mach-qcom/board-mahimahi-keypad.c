@@ -1,4 +1,4 @@
-/* arch/arm/mach-qcom/board-mahimahi-keypad.c
+/* arch/arm/mach-msm/board-mahimahi-keypad.c
  *
  * Copyright (C) 2009 Google, Inc
  * Copyright (C) 2009 HTC Corporation.

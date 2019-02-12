@@ -1,4 +1,4 @@
-/* linux/arch/arm/mach-qcom/board-halibut.c
+/* linux/arch/arm/mach-msm/board-halibut.c
  *
  * Copyright (C) 2007 Google, Inc.
  * Author: Brian Swetland <swetland@google.com>

@@ -1,4 +1,4 @@
-/* arch/arm/mach-qcom/board-mahimahi-audio.c
+/* arch/arm/mach-msm/board-mahimahi-audio.c
  *
  * Copyright (C) 2009 HTC Corporation
  * Copyright (C) 2009 Google Inc.

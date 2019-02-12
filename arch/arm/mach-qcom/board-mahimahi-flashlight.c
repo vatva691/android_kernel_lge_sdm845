@@ -1,5 +1,5 @@
 /*
- * arch/arm/mach-qcom/flashlight.c - flashlight driver
+ * arch/arm/mach-msm/flashlight.c - flashlight driver
  *
  *  Copyright (C) 2009 zion huang <zion_huang@htc.com>
  *

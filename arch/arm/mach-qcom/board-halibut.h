@@ -1,4 +1,4 @@
-/* linux/arch/arm/mach-qcom/board-trout.h
+/* linux/arch/arm/mach-msm/board-trout.h
  * ** Author: Brian Swetland <swetland@google.com>
  * */
 #ifndef __ARCH_ARM_MACH_MSM_BOARD_HALIBUT_H

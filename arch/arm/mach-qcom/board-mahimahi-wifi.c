@@ -1,4 +1,4 @@
-/* linux/arch/arm/mach-qcom/board-mahimahi-wifi.c
+/* linux/arch/arm/mach-msm/board-mahimahi-wifi.c
 */
 #include <linux/kernel.h>
 #include <linux/init.h>

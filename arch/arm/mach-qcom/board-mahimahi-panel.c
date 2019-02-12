@@ -1,4 +1,4 @@
-/* linux/arch/arm/mach-qcom/board-mahimahi-panel.c
+/* linux/arch/arm/mach-msm/board-mahimahi-panel.c
  *
  * Copyright (c) 2009 Google Inc.
  * Author: Dima Zavin <dima@android.com>
