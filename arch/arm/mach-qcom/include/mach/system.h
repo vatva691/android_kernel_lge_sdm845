@@ -1,4 +1,4 @@
-/* arch/arm/mach-qcom/include/mach/system.h
+/* arch/arm/mach-msm/include/mach/system.h
  *
  * Copyright (C) 2007 Google, Inc.
  *

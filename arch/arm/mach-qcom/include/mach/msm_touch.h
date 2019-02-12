@@ -1,4 +1,4 @@
-/* arch/arm/mach-qcom/include/mach/msm_touch.h
+/* arch/arm/mach-msm/include/mach/msm_touch.h
  *
  * Platform data for MSM touchscreen driver.
  *

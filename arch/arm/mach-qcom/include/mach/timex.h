@@ -1,4 +1,4 @@
-/* arch/arm/mach-qcom/include/mach/timex.h
+/* arch/arm/mach-msm/include/mach/timex.h
  *
  * Copyright (C) 2007 Google, Inc.
  *
